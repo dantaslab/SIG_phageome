@@ -1,0 +1,70 @@
+```{r}
+library(readr)
+library(pheatmap)
+library(RColorBrewer)
+library(viridis)
+library(tidyr)
+library(dplyr)
+library(phangorn)
+library(ggplot2)
+library(ggtree)
+library(ggnewscale)
+library(Maaslin2)
+library(readxl)
+library("compositions")
+library("doParallel")
+```
+Getting data
+```{r}
+
+data_all= read_excel("Data_S4_v1.xlsx", sheet = "defense_sys_sum")
+data = as.data.frame.matrix(table(data_all$isolate, data_all$type))
+data$Total = rowSums(data)
+data$Isolate = rownames(data)
+
+data_meta = read_excel("Data_S1_v1.xlsx")
+data = merge(data, data_meta[,c(1,2,3,5)], by = "Isolate")
+colnames(data)[34] = "Type"
+rownames(data) = data$Isolate
+
+X_all = data 
+X_data <- subset(X_all, select = -c(Isolate,Total,Type,Host,Group))
+
+metadata = subset(X_all, select = c(Isolate,Total,Type,Host,Group))
+
+A  = select(metadata, where(function(x) length(levels(factor(x)))==1))
+colnames(A)
+Isolate.type = subset(X_all, select = c(Isolate, Type))
+
+```
+Fix metadata file -  set the first colume as row names
+
+```{r}
+library(data.table)
+taxa_pa = transpose(X_data)  # transpose(X_data) #transpose(data.frame(clr(X))) # transpose(data.frame(scale(clr(X))))
+colnames(taxa_pa) = X_all$Isolate
+rownames(taxa_pa) = colnames(X_data)
+#taxa_pa = subset(taxa_pa, select = -c(Gene))
+rownames(Isolate.type) = X_all$Isolate
+Isolate.type = subset(Isolate.type, select = -c(Isolate))
+rownames(metadata) = metadata$Isolate
+metadata_key = subset(metadata, select = -c(Isolate))
+```
+
+```{r}
+# Use trace(Maaslin2, edit = T) to change the Host code
+df_input_data = taxa_pa
+#df_input_metadata = Isolate.type
+df_input_metadata = metadata_key
+fit_data = Maaslin2(
+    input_data = df_input_data, 
+    input_metadata = df_input_metadata,
+    min_prevalence = 0.01,
+    #min_abundance = 0.0001,
+    analysis_method = "NEGBIN", 
+    normalization = "NONE",
+    transform = "NONE",
+    output = "230903_DefenseCount_Host_NEGBIN_0.01",
+    fixed_effects = c("Host"), # "Type" or "Group"
+   reference = c("Host,Environment"))
+```
