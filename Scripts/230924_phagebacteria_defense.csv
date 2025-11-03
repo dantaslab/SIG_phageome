@@ -1,0 +1,494 @@
+﻿Isolate,Type,Delphini,Phage,bAbiJ,bAbi2,bGabija,bPD_T4_9,bPD_Lambda_1,bAbiD,bKiwa,bAbiN,pAbiJ,pAbi2,pGabija,pPD_T4_9,pPD_Lambda_1,pAbiD,pKiwa,pAbiN,AbiJ,Abi2,Gabija,PD_T4_9,PD_Lambda_1,AbiD,Kiwa,AbiN,Source,Type,Cohort,Group,Bodysite,Taxonomy,Age,Age_group,Age_group2,MLST,Household,Intervention,Cluster,Cas,RosmerTA
+AI_0001,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,5,NA,NA,2385,NA,NA,none,1,2
+AI_0002,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,8,NA,NA,764,NA,NA,none,1,1
+AI_0003,Diagnostic,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,0.8,NA,NA,2386,NA,NA,none,0,1
+AI_0004,Diagnostic,FALSE,2,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,1.25,NA,NA,496,NA,NA,none,2,1
+AI_0005,Diagnostic,FALSE,3,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,2,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,3,NA,NA,2387,NA,NA,none,1,1
+AI_0006,Diagnostic,FALSE,5,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,pyoderma,pseudintermedius,9,NA,NA,1229,NA,NA,17,1,1
+AI_0007,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,12,NA,NA,337,NA,NA,none,0,1
+AI_0008,Diagnostic,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,draining tract,pseudintermedius,3,NA,NA,1673,NA,NA,none,0,1
+AI_0009,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,5,NA,NA,2388,NA,NA,none,1,1
+AI_0010,Diagnostic,FALSE,5,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,2,1,1,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,12,NA,NA,2389,NA,NA,none,1,1
+AI_0011,Diagnostic,FALSE,2,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,0.8,NA,NA,2390,NA,NA,none,0,1
+AI_0012,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,4,NA,NA,2391,NA,NA,none,1,2
+AI_0013,Diagnostic,FALSE,4,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,0.35,NA,NA,2392,NA,NA,none,1,1
+AI_0015,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,5,NA,NA,2393,NA,NA,none,0,2
+AI_0016,Diagnostic,FALSE,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,abscess,pseudintermedius,1,NA,NA,2394,NA,NA,none,0,1
+AI_0017,Diagnostic,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin biopsy,pseudintermedius,4,NA,NA,2395,NA,NA,none,0,1
+AI_0018,Diagnostic,FALSE,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,0.27,NA,NA,188,NA,NA,18,0,1
+AI_0019,Diagnostic,FALSE,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,1,NA,NA,2396,NA,NA,none,0,1
+AI_0020,Diagnostic,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,5,NA,NA,2397,NA,NA,none,1,1
+AI_0021,Diagnostic,FALSE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,2,NA,NA,2398,NA,NA,none,0,2
+AI_0023,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,0.35,NA,NA,2399,NA,NA,none,0,1
+AI_0024,Diagnostic,FALSE,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,12,NA,NA,2400,NA,NA,none,0,1
+AI_0025,Diagnostic,FALSE,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,nasal,pseudintermedius,3,NA,NA,2401,NA,NA,none,1,1
+AI_0026,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,foot,pseudintermedius,7,NA,NA,311,NA,NA,none,0,1
+AI_0027,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,7.67,NA,NA,2402,NA,NA,none,0,1
+AI_0028,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin tissue,pseudintermedius,7,NA,NA,1226,NA,NA,38,0,1
+AI_0029,Diagnostic,FALSE,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,vaginal,pseudintermedius,2,NA,NA,2403,NA,NA,39,0,1
+AI_0030,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,13,NA,NA,2404,NA,NA,none,0,1
+AI_0031,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,1,NA,NA,2405,NA,NA,none,0,1
+AI_0032,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,6,NA,NA,2406,NA,NA,none,2,1
+AI_0033,Diagnostic,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,nasal,pseudintermedius,6,NA,NA,2407,NA,NA,none,0,1
+AI_0034,Diagnostic,FALSE,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,5,NA,NA,923,NA,NA,7,1,1
+AI_0035,Diagnostic,FALSE,3,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,7.92,NA,NA,2408,NA,NA,none,0,1
+AI_0036,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,0.67,NA,NA,2409,NA,NA,none,1,1
+AI_0037,Diagnostic,FALSE,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,surgical plate,pseudintermedius,3,NA,NA,2410,NA,NA,none,1,1
+AI_0038,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,2,NA,NA,2411,NA,NA,none,1,1
+AI_0039,Diagnostic,FALSE,4,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,2,1,1,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,8.5,NA,NA,121,NA,NA,none,2,1
+AI_0040,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,2,NA,NA,2412,NA,NA,none,1,1
+AI_0041,Diagnostic,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,abscess,pseudintermedius,5,NA,NA,755,NA,NA,none,1,1
+AI_0042,Diagnostic,FALSE,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,1,NA,NA,923,NA,NA,none,1,1
+AI_0043,Diagnostic,FALSE,4,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,2,NA,NA,23,NA,NA,none,0,1
+AI_0044,Diagnostic,FALSE,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin biopsy,pseudintermedius,4,NA,NA,833,NA,NA,none,0,1
+AI_0045,Diagnostic,FALSE,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,8,NA,NA,2413,NA,NA,none,0,1
+AI_0046,Diagnostic,FALSE,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,13,NA,NA,2414,NA,NA,none,0,1
+AI_0048,Diagnostic,FALSE,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,draining tract,pseudintermedius,7,NA,NA,2415,NA,NA,none,1,1
+AI_0049,Diagnostic,FALSE,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,0.33,NA,NA,1970,NA,NA,none,0,1
+AI_0050,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,12,NA,NA,2416,NA,NA,none,0,2
+AI_0051,Diagnostic,FALSE,5,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,abscess,pseudintermedius,4,NA,NA,155,NA,NA,none,1,1
+AI_0052,Diagnostic,FALSE,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,9,NA,NA,2417,NA,NA,none,0,1
+AI_0053,Diagnostic,FALSE,6,1,1,1,0,0,1,0,1,1,0,1,0,0,0,0,0,2,1,2,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin biopsy,pseudintermedius,4,NA,NA,64,NA,NA,none,0,1
+AI_0054,Diagnostic,FALSE,4,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,6,NA,NA,610,NA,NA,none,0,1
+AI_0055,Diagnostic,FALSE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,11,NA,NA,2418,NA,NA,none,1,1
+AI_0056,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,1,NA,NA,2419,NA,NA,none,1,2
+AI_0057,Diagnostic,FALSE,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,10,NA,NA,820,NA,NA,none,0,1
+AI_0058,Diagnostic,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,abscess,pseudintermedius,8,NA,NA,2420,NA,NA,none,1,1
+AI_0059,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,incision,pseudintermedius,8,NA,NA,2421,NA,NA,none,0,1
+AI_0060,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,4,NA,NA,832,NA,NA,none,0,2
+AI_0061,Diagnostic,FALSE,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin biopsy,pseudintermedius,13,NA,NA,2422,NA,NA,none,1,1
+AI_0062,Diagnostic,FALSE,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,15,NA,NA,2423,NA,NA,none,0,1
+AI_0063,Diagnostic,FALSE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,5,NA,NA,2424,NA,NA,none,1,1
+AI_0064,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,17,NA,NA,2425,NA,NA,none,0,1
+AI_0065,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,incision,pseudintermedius,10,NA,NA,2426,NA,NA,none,2,1
+AI_0066,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,3.5,NA,NA,2427,NA,NA,none,1,1
+AI_0067,Diagnostic,FALSE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,2,NA,NA,2428,NA,NA,none,0,1
+AI_0068,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,1.16,NA,NA,555,NA,NA,none,1,1
+AI_0069,Diagnostic,FALSE,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,3,NA,NA,2275,NA,NA,none,1,1
+AI_0070,Diagnostic,FALSE,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,10,NA,NA,2429,NA,NA,none,0,2
+AI_0071,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,1,NA,NA,2430,NA,NA,none,0,1
+AI_0072,Diagnostic,FALSE,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,0.33,NA,NA,2431,NA,NA,none,0,1
+AI_0073,Diagnostic,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,6,NA,NA,2432,NA,NA,none,1,1
+AI_0074,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,5,NA,NA,2433,NA,NA,none,0,1
+AI_0075,Diagnostic,FALSE,4,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,2,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,9,NA,NA,2434,NA,NA,none,0,1
+AI_0076,Diagnostic,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin biopsy,pseudintermedius,9,NA,NA,755,NA,NA,none,0,1
+AI_0077,Diagnostic,FALSE,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,0.33,NA,NA,1055,NA,NA,40,1,1
+AI_0078,Diagnostic,FALSE,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,7,NA,NA,2435,NA,NA,none,1,1
+AI_0079,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,foot,pseudintermedius,8.5,NA,NA,2436,NA,NA,none,0,1
+AI_0080,Diagnostic,FALSE,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,6,NA,NA,45,NA,NA,none,0,1
+AI_0082,Diagnostic,FALSE,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,10,NA,NA,822,NA,NA,21,0,2
+AI_0085,Diagnostic,FALSE,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin biopsy,pseudintermedius,11,NA,NA,2437,NA,NA,none,1,1
+AI_0086,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,14,NA,NA,2438,NA,NA,none,0,1
+AI_0087,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,9,NA,NA,2439,NA,NA,none,1,1
+AI_0088,Diagnostic,FALSE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,11,NA,NA,257,NA,NA,none,0,1
+AI_0089,Diagnostic,FALSE,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,7,NA,NA,2440,NA,NA,none,0,1
+AI_0090,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,skin,pseudintermedius,13,NA,NA,2441,NA,NA,none,0,1
+AI_0091,Diagnostic,FALSE,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Animal,Diagnostic,Animal diagnostic,AI,wouns,pseudintermedius,6,NA,NA,2442,NA,NA,none,0,1
+AI_0092,Diagnostic,FALSE,4,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,3.58,NA,NA,45,NA,NA,none,0,1
+AI_0093,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,7,NA,NA,1297,NA,NA,none,0,1
+AI_0094,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,8,NA,NA,2443,NA,NA,none,1,1
+AI_0095,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,12,NA,NA,1431,NA,NA,none,0,1
+AI_0096,Diagnostic,FALSE,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,8,NA,NA,2444,NA,NA,none,0,1
+AI_0097,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Diagnostic,Animal diagnostic,AI,abscess,pseudintermedius,1.5,NA,NA,2445,NA,NA,none,0,1
+AI_0098,Diagnostic,FALSE,4,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,14,NA,NA,2446,NA,NA,none,0,1
+AI_0099,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Animal,Diagnostic,Animal diagnostic,AI,urine,pseudintermedius,5,NA,NA,192,NA,NA,none,2,2
+AI_0100,Diagnostic,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Diagnostic,Animal diagnostic,AI,wound,pseudintermedius,0.83,NA,NA,2447,NA,NA,none,0,1
+HI_0001,Diagnostic,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,66.2,61_75,60_90,1321,NA,NA,none,2,2
+HI_0002,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,76,76-88,60_90,2448,NA,NA,none,0,1
+HI_0003,Diagnostic,FALSE,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,35.7,31_45,31_60,181,NA,NA,22,2,1
+HI_0004,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,79.4,76-88,60_90,1933,NA,NA,none,1,2
+HI_0005,Diagnostic,FALSE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,83.1,76-88,60_90,2449,NA,NA,none,0,1
+HI_0006,Diagnostic,FALSE,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,na,pseudintermedius,NA,NA,NA,1055,NA,NA,40,1,1
+HI_0007,Diagnostic,FALSE,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,67.3,61_75,60_90,2450,NA,NA,none,0,1
+HI_0008,Diagnostic,FALSE,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,62.3,61_75,60_90,2451,NA,NA,none,1,1
+HI_0010,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,64.3,61_75,60_90,241,NA,NA,54,1,2
+HI_0011,Diagnostic,FALSE,2,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,2,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,48.6,46_60,31_60,2452,NA,NA,none,1,1
+HI_0012,Diagnostic,FALSE,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,50.8,46_60,31_60,68,NA,NA,41,1,1
+HI_0013,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,62.5,61_75,60_90,2453,NA,NA,none,0,1
+HI_0014,Diagnostic,FALSE,2,1,1,2,0,0,1,0,0,1,0,1,0,0,0,0,0,2,1,3,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,43.2,31_45,31_60,64,NA,NA,none,1,1
+HI_0016,Diagnostic,FALSE,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,60.6,61_75,60_90,727,NA,NA,none,0,1
+HI_0017,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,32.1,31_45,31_60,2454,NA,NA,71,0,1
+HI_0018,Diagnostic,FALSE,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,24.5,16_30,1_30,2455,NA,NA,none,1,1
+HI_0020,Diagnostic,FALSE,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,78.3,76-88,60_90,923,NA,NA,7,1,1
+HI_0021,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,54.2,46_60,31_60,2456,NA,NA,23,1,1
+HI_0022,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,54.2,46_60,31_60,2456,NA,NA,23,1,1
+HI_0023,Diagnostic,FALSE,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,68.4,61_75,60_90,2457,NA,NA,none,0,1
+HI_0024,Diagnostic,FALSE,3,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,61.2,61_75,60_90,2458,NA,NA,none,1,1
+HI_0025,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,abscess,pseudintermedius,37.1,31_45,31_60,2459,NA,NA,42,1,1
+HI_0026,Diagnostic,FALSE,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,58.3,46_60,31_60,2459,NA,NA,42,1,1
+HI_0027,Diagnostic,FALSE,4,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,54.2,46_60,31_60,412,NA,NA,none,0,1
+HI_0028,Diagnostic,FALSE,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,70.6,61_75,60_90,923,NA,NA,7,1,1
+HI_0030,Diagnostic,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,32.2,31_45,31_60,698,NA,NA,none,0,1
+HI_0031,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,49.7,46_60,31_60,2460,NA,NA,none,0,1
+HI_0032,Diagnostic,FALSE,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,54.4,46_60,31_60,2461,NA,NA,none,1,1
+HI_0033,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,51.6,46_60,31_60,2462,NA,NA,none,0,1
+HI_0034,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,58.8,46_60,31_60,2463,NA,NA,none,0,1
+HI_0035,Diagnostic,FALSE,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,67.1,61_75,60_90,181,NA,NA,22,2,1
+HI_0036,Diagnostic,FALSE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,79.1,76-88,60_90,2464,NA,NA,none,0,1
+HI_0037,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,NA,NA,NA,2465,NA,NA,none,0,1
+HI_0038,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,65.3,61_75,60_90,2466,NA,NA,none,0,1
+HI_0039,Diagnostic,FALSE,2,2,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,56.9,46_60,31_60,84,NA,NA,none,0,1
+HI_0040,Diagnostic,FALSE,2,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,25.5,16_30,1_30,909,NA,NA,none,1,1
+HI_0041,Diagnostic,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,65.7,61_75,60_90,2467,NA,NA,none,1,1
+HI_0042,Diagnostic,FALSE,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,67.5,61_75,60_90,2403,NA,NA,39,0,1
+HI_0043,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,57.7,46_60,31_60,2468,NA,NA,none,1,1
+HI_0044,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,61.9,61_75,60_90,2469,NA,NA,none,2,1
+HI_0045,Diagnostic,FALSE,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,70.5,61_75,60_90,2414,NA,NA,none,0,1
+HI_0046,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,37.2,31_45,31_60,941,NA,NA,none,0,1
+HI_0048,Diagnostic,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,24.3,16_30,1_30,2470,NA,NA,none,0,1
+HI_0049,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,16.3,16_30,1_30,2471,NA,NA,none,1,1
+HI_0050,Diagnostic,FALSE,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,61.5,61_75,60_90,1055,NA,NA,43,0,1
+HI_0051,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,60.1,61_75,60_90,2472,NA,NA,none,0,2
+HI_0052,Diagnostic,FALSE,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,73.6,61_75,60_90,2473,NA,NA,none,0,1
+HI_0053,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,56.1,46_60,31_60,1506,NA,NA,none,1,2
+HI_0054,Diagnostic,FALSE,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,61.6,61_75,60_90,1055,NA,NA,43,0,1
+HI_0055,Diagnostic,FALSE,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,57.5,46_60,31_60,822,NA,NA,21,0,2
+HI_0056,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,69.8,61_75,60_90,2474,NA,NA,44,1,1
+HI_0058,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,69.3,61_75,60_90,2474,NA,NA,44,1,1
+HI_0059,Diagnostic,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,69.3,61_75,60_90,2475,NA,NA,45,1,1
+HI_0060,Diagnostic,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,62,61_75,60_90,2475,NA,NA,45,1,1
+HI_0061,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,abscess,pseudintermedius,17.9,16_30,1_30,1506,NA,NA,47,1,2
+HI_0062,Diagnostic,FALSE,3,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,58.2,46_60,31_60,2476,NA,NA,none,1,1
+HI_0063,Diagnostic,FALSE,2,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,81.5,76-88,60_90,2477,NA,NA,none,0,1
+HI_0065,Diagnostic,FALSE,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,77,76-88,60_90,2478,NA,NA,none,0,2
+HI_0066,Diagnostic,FALSE,2,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,53.7,46_60,31_60,2479,NA,NA,none,0,1
+HI_0069,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,72,61_75,60_90,2480,NA,NA,none,1,1
+HI_0070,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,60.8,61_75,60_90,2481,NA,NA,none,1,1
+HI_0071,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,67.2,61_75,60_90,2482,NA,NA,none,1,1
+HI_0073,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,40.4,31_45,31_60,2483,NA,NA,46,1,1
+HI_0074,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,88,76-88,60_90,2483,NA,NA,46,1,1
+HI_0075,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,31.8,31_45,31_60,2484,NA,NA,none,0,1
+HI_0076,Diagnostic,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,67.9,61_75,60_90,806,NA,NA,none,1,1
+HI_0077,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,70.2,61_75,60_90,2485,NA,NA,48,1,2
+HI_0078,Diagnostic,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,70.2,61_75,60_90,2485,NA,NA,48,1,2
+HI_0079,Diagnostic,FALSE,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,74.9,61_75,60_90,2486,NA,NA,none,1,1
+HI_0080,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,74,61_75,60_90,1226,NA,NA,38,0,1
+HI_0081,Diagnostic,FALSE,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,78.3,76-88,60_90,188,NA,NA,18,0,1
+HI_0082,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,44.5,31_45,31_60,2487,NA,NA,none,0,1
+HI_0083,Diagnostic,FALSE,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,35.1,31_45,31_60,2488,NA,NA,24,1,1
+HI_0084,Diagnostic,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,31.3,31_45,31_60,2489,NA,NA,none,1,1
+HI_0085,Diagnostic,FALSE,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,79.7,76-88,60_90,155,NA,NA,25,0,1
+HI_0086,Diagnostic,FALSE,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,68.9,61_75,60_90,2490,NA,NA,none,0,1
+HI_0087,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,81.4,76-88,60_90,2491,NA,NA,none,1,1
+HI_0088,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,63.1,61_75,60_90,261,NA,NA,none,0,1
+HI_0089,Diagnostic,FALSE,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,60,46_60,31_60,2492,NA,NA,none,0,1
+HI_0090,Diagnostic,FALSE,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,53.7,46_60,31_60,1444,NA,NA,none,0,1
+HI_0091,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,67,61_75,60_90,2493,NA,NA,none,0,1
+HI_0092,Diagnostic,FALSE,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,59.3,46_60,31_60,2494,NA,NA,none,0,1
+HI_0093,Diagnostic,FALSE,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,78.6,76-88,60_90,1189,NA,NA,none,0,2
+HI_0094,Diagnostic,FALSE,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,76.2,76-88,60_90,2495,NA,NA,49,0,1
+HI_0096,Diagnostic,FALSE,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,6.5,1_15,1_30,2488,NA,NA,24,1,1
+HI_0097,Diagnostic,FALSE,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,76.3,76-88,60_90,2495,NA,NA,49,0,1
+HI_0098,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,66.6,61_75,60_90,2496,NA,NA,none,0,1
+HI_0101,Diagnostic,FALSE,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,abscess,pseudintermedius,51.8,46_60,31_60,2497,NA,NA,none,0,1
+HI_0103,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,blood,pseudintermedius,46.3,46_60,31_60,1961,NA,NA,26,2,2
+HI_0104,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,55.3,46_60,31_60,2498,NA,NA,none,1,1
+HI_0105,Diagnostic,FALSE,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,55.9,46_60,31_60,68,NA,NA,41,1,1
+HI_0106,Diagnostic,FALSE,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,73.7,61_75,60_90,2499,NA,NA,none,1,1
+HI_0108,Diagnostic,FALSE,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,62.2,61_75,60_90,1390,NA,NA,50,0,1
+HI_0109,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,74.2,61_75,60_90,2500,NA,NA,none,1,1
+HI_0110,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,body fluid,pseudintermedius,46.5,46_60,31_60,2501,NA,NA,none,0,2
+HI_0111,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,35.4,31_45,31_60,2502,NA,NA,none,0,1
+HI_0112,Diagnostic,FALSE,4,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,55.3,46_60,31_60,2503,NA,NA,51,1,1
+HI_0113,Diagnostic,FALSE,4,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,55.3,46_60,31_60,2503,NA,NA,51,1,1
+HI_0114,Diagnostic,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,27.9,16_30,1_30,2504,NA,NA,none,1,1
+HI_0115,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,38.8,31_45,31_60,2505,NA,NA,none,1,1
+HI_0116,Diagnostic,FALSE,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,84.6,76-88,60_90,2506,NA,NA,none,0,1
+HI_0117,Diagnostic,FALSE,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,50,46_60,31_60,1512,NA,NA,none,1,1
+HI_0118,Diagnostic,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,5.7,1_15,1_30,2507,NA,NA,none,1,1
+HI_0119,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,45,31_45,31_60,2508,NA,NA,none,0,2
+HI_0122,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,65,61_75,60_90,2509,NA,NA,none,0,1
+HI_0123,Diagnostic,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,38.2,31_45,31_60,820,NA,NA,52,0,2
+HI_0124,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,50.3,46_60,31_60,2510,NA,NA,27,1,1
+HI_0125,Diagnostic,FALSE,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,38.2,31_45,31_60,2511,NA,NA,none,0,1
+HI_0126,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,81.5,76-88,60_90,2512,NA,NA,none,1,2
+HI_0127,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,31.4,31_45,31_60,21,NA,NA,none,1,1
+HI_0128,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,50.4,46_60,31_60,2510,NA,NA,27,1,1
+HI_0129,Diagnostic,FALSE,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,45,31_45,31_60,2513,NA,NA,none,0,1
+HI_0130,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,64.7,61_75,60_90,2514,NA,NA,none,1,1
+HI_0131,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,50.4,46_60,31_60,2510,NA,NA,27,1,1
+HI_0132,Diagnostic,FALSE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,45,31_45,31_60,701,NA,NA,none,1,1
+HI_0133,Diagnostic,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,49.9,46_60,31_60,2515,NA,NA,none,1,1
+HI_0134,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,59,46_60,31_60,2516,NA,NA,none,1,1
+HI_0135,Diagnostic,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,abscess,pseudintermedius,57.4,46_60,31_60,820,NA,NA,52,0,2
+HI_0137,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,58.1,46_60,31_60,2517,NA,NA,none,1,2
+HI_0138,Diagnostic,FALSE,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,1,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,78.1,76-88,60_90,2518,NA,NA,none,0,1
+HI_0139,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,4.5,1_15,1_30,2519,NA,NA,none,1,1
+HI_0140,Diagnostic,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,27.9,16_30,1_30,2520,NA,NA,none,0,1
+HI_0141,Diagnostic,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,63.6,61_75,60_90,2521,NA,NA,53,0,1
+HI_0142,Diagnostic,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,69.8,61_75,60_90,2522,NA,NA,none,1,1
+HI_0143,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,2.6,1_15,1_30,978,NA,NA,55,1,1
+HI_0144,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,body fluid,pseudintermedius,65.1,61_75,60_90,2523,NA,NA,none,1,1
+HI_0145,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,4.6,1_15,1_30,2519,NA,NA,none,1,1
+HI_0146,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,62.4,61_75,60_90,241,NA,NA,54,1,2
+HI_0147,Diagnostic,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,60.9,61_75,60_90,755,NA,NA,none,1,1
+HI_0149,Diagnostic,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,44.9,31_45,31_60,831,NA,NA,none,0,2
+HI_0151,Diagnostic,FALSE,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,41.7,31_45,31_60,2524,NA,NA,none,0,1
+HI_0152,Diagnostic,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,63.7,61_75,60_90,2521,NA,NA,53,0,1
+HI_0154,Diagnostic,FALSE,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,48.8,46_60,31_60,2525,NA,NA,none,0,1
+HI_0155,Diagnostic,FALSE,6,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,64,61_75,60_90,2526,NA,NA,none,0,1
+HI_0156,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,48.8,46_60,31_60,2527,NA,NA,none,1,1
+HI_0158,Diagnostic,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,54.5,46_60,31_60,2528,NA,NA,none,1,2
+HI_0159,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,abscess,pseudintermedius,42.7,31_45,31_60,897,NA,NA,none,2,1
+HI_0160,Diagnostic,FALSE,3,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,70,61_75,60_90,2529,NA,NA,none,0,1
+HI_0161,Diagnostic,FALSE,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,58.2,46_60,31_60,2530,NA,NA,none,0,1
+HI_0162,Diagnostic,FALSE,3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,69.9,61_75,60_90,2531,NA,NA,none,0,1
+HI_0163,Diagnostic,FALSE,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,57.6,46_60,31_60,2532,NA,NA,none,1,1
+HI_0164,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,62.2,61_75,60_90,882,NA,NA,19,0,1
+HI_0165,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,62.2,61_75,60_90,882,NA,NA,19,0,1
+HI_0166,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,62.2,61_75,60_90,882,NA,NA,19,0,1
+HI_0167,Diagnostic,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,abscess,pseudintermedius,6.7,1_15,1_30,2533,NA,NA,none,0,1
+HI_0168,Diagnostic,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,63.1,61_75,60_90,2534,NA,NA,none,1,1
+HI_0169,Diagnostic,FALSE,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,61.6,61_75,60_90,1961,NA,NA,26,2,2
+HI_0170,Diagnostic,FALSE,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,12.7,1_15,1_30,2361,NA,NA,none,0,1
+HI_0171,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,86,76-88,60_90,2535,NA,NA,56,0,1
+HI_0172,Diagnostic,FALSE,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,55.3,46_60,31_60,188,NA,NA,18,0,1
+HI_0173,Diagnostic,FALSE,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,74.8,61_75,60_90,1390,NA,NA,50,0,1
+HI_0174,Diagnostic,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,65.7,61_75,60_90,2536,NA,NA,none,0,1
+HI_0175,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,74.7,61_75,60_90,2537,NA,NA,none,1,2
+HI_0176,Diagnostic,FALSE,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,78.5,76-88,60_90,768,NA,NA,24,1,1
+HI_0177,Diagnostic,FALSE,3,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,73.1,61_75,60_90,181,NA,NA,22,2,1
+HI_0178,Diagnostic,FALSE,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Human,Diagnostic,Human diagnostic,HI,respiratory,pseudintermedius,76.3,76-88,60_90,2538,NA,NA,none,1,1
+HI_0179,Diagnostic,FALSE,4,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,21,16_30,1_30,1229,NA,NA,17,1,1
+HI_0181,Diagnostic,FALSE,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,other,pseudintermedius,73.1,61_75,60_90,1229,NA,NA,17,1,1
+HI_0182,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,11.7,1_15,1_30,1390,NA,NA,none,0,1
+HI_0185,Diagnostic,FALSE,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,63.8,61_75,60_90,1360,NA,NA,none,1,2
+HI_0186,Diagnostic,FALSE,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Human,Diagnostic,Human diagnostic,HI,tissue,pseudintermedius,84.6,76-88,60_90,551,NA,NA,none,3,1
+HI_0187,Diagnostic,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,wound,pseudintermedius,79.1,76-88,60_90,978,NA,NA,55,1,1
+HI_0188,Diagnostic,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Diagnostic,Human diagnostic,HI,drainage or drn,pseudintermedius,3.2,1_15,1_30,2535,NA,NA,56,0,1
+SF_0001,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,10,NA,NA,610,HOME_A,Postintervention,none,0,1
+SF_0003,Environment,FALSE,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2539,HOME_B,Postintervention,57,0,1
+SF_0005,Environment,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2540,HOME_B,Postintervention,none,1,1
+SF_0006,Colonizing,FALSE,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,4,NA,NA,2539,HOME_B,Postintervention,57,0,1
+SF_0007,Environment,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,882,HOME_C,Postintervention,19,0,1
+SF_0008,Colonizing,FALSE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,8,NA,NA,2541,HOME_E,Postintervention,none,1,1
+SF_0009,Environment,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2542,HOME_F,Postintervention,20,1,1
+SF_0010,Colonizing,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,9,NA,NA,2542,HOME_F,Postintervention,20,1,1
+SF_0011,Colonizing,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,9,NA,NA,2542,HOME_F,Postintervention,20,1,1
+SF_0012,Environment,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,kitchen sink faucet handle,pseudintermedius,NA,NA,NA,759,HOME_G,Preintervention,2,1,2
+SF_0014,Environment,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,759,HOME_G,Intervention,2,1,2
+SF_0015,Environment,FALSE,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,759,HOME_G,Intervention,none,1,1
+SF_0016,Environment,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom sink faucet handle,pseudintermedius,NA,NA,NA,759,HOME_G,Postintervention,2,1,2
+SF_0017,Environment,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom light switch,pseudintermedius,NA,NA,NA,759,HOME_G,Postintervention,2,1,2
+SF_0018,Environment,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,759,HOME_G,Postintervention,2,1,2
+SF_0019,Environment,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,759,HOME_G,Postintervention,2,1,2
+SF_0020,Environment,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,1509,HOME_G,Postintervention,none,1,1
+SF_0021,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,axillae,pseudintermedius,3,1_15,1_30,759,HOME_G,Postintervention,2,1,1
+SF_0022,Colonizing,FALSE,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,4,NA,NA,2543,HOME_G,Intervention,none,1,1
+SF_0023,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,4,NA,NA,759,HOME_G,Preintervention,2,1,2
+SF_0024,Colonizing,FALSE,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,9,NA,NA,155,HOME_H,Preintervention,25,0,1
+SF_0025,Environment,FALSE,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2544,HOME_I,Preintervention,5,1,1
+SF_0026,Environment,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,1506,HOME_I,Preintervention,47,1,2
+SF_0027,Environment,FALSE,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2544,HOME_I,Preintervention,5,1,1
+SF_0028,Environment,FALSE,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,toilet seat,pseudintermedius,NA,NA,NA,2544,HOME_I,Postintervention,5,1,1
+SF_0029,Environment,FALSE,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2544,HOME_I,Postintervention,5,1,1
+SF_0030,Environment,FALSE,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2544,HOME_I,Postintervention,5,1,1
+SF_0031,Colonizing,FALSE,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,axillae,pseudintermedius,33,31_45,31_60,2544,HOME_I,Postintervention,5,1,1
+SF_0032,Environment,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2545,HOME_J,Preintervention,6,0,2
+SF_0033,Environment,FALSE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2545,HOME_J,Preintervention,6,0,2
+SF_0034,Environment,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Environment,Environment,Environmental,Household,kitchen sink faucet handle,pseudintermedius,NA,NA,NA,2546,HOME_J,Preintervention,72,0,1
+SF_0035,Environment,FALSE,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2547,HOME_J,Preintervention,none,0,1
+SF_0036,Environment,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2545,HOME_J,Preintervention,6,0,2
+SF_0037,Colonizing,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,5,1_15,1_30,2545,HOME_J,Intervention,6,0,2
+SF_0038,Colonizing,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,inguinal folds,pseudintermedius,37,31_45,31_60,2545,HOME_J,Preintervention,6,0,2
+SF_0039,Colonizing,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,2,1_15,1_30,2546,HOME_J,Intervention,72,0,1
+SF_0040,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,12,NA,NA,2548,HOME_J,Preintervention,61,0,1
+SF_0041,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,2,NA,NA,2549,HOME_J,Preintervention,12,1,1
+SF_0042,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,4,NA,NA,2550,HOME_K,Preintervention,8,1,1
+SF_0043,Colonizing,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,0.5,NA,NA,2551,HOME_K,Postintervention,none,1,1
+SF_0044,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,0.25,NA,NA,2550,HOME_K,Postintervention,8,1,1
+SF_0045,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,39,31_45,31_60,2552,HOME_L,Postintervention,13,1,1
+SF_0047,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,8,NA,NA,2552,HOME_L,Preintervention,13,1,1
+SF_0048,Colonizing,FALSE,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,inguinal folds,pseudintermedius,6,1_15,1_30,2553,HOME_M,Postintervention,3,0,2
+SF_0050,Colonizing,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,1,NA,NA,2553,HOME_M,Preintervention,3,0,2
+SF_0051,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,5,NA,NA,2554,HOME_N,Postintervention,none,0,1
+SF_0052,Colonizing,FALSE,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,9,NA,NA,2555,HOME_O,Preintervention,67,1,1
+SF_0053,Colonizing,FALSE,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,8,NA,NA,2555,HOME_O,Preintervention,67,1,1
+SF_0055,Environment,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,kitchen sink faucet handle,pseudintermedius,NA,NA,NA,2556,HOME_P,Preintervention,none,0,1
+SF_0056,Environment,FALSE,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,862,HOME_P,Preintervention,9,1,1
+SF_0057,Environment,FALSE,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,862,HOME_P,Preintervention,9,1,1
+SF_0058,Environment,FALSE,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,862,HOME_P,Preintervention,9,1,1
+SF_0059,Colonizing,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,axillae,pseudintermedius,1,1_15,1_30,862,HOME_P,Preintervention,9,1,1
+SF_0060,Colonizing,FALSE,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,nares,pseudintermedius,14,NA,NA,862,HOME_P,Preintervention,9,1,1
+SF_0061,Environment,FALSE,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,Environment,Environment,Environmental,Household,toilet seat,pseudintermedius,NA,NA,NA,2557,SHINE_A,Preintervention,none,1,1
+SF_0062,Environment,FALSE,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2549,HOME_J,Preintervention,12,1,1
+SF_0064,Environment,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2545,HOME_J,Intervention,6,0,2
+SF_0065,Environment,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathtub,pseudintermedius,NA,NA,NA,2549,HOME_J,Postintervention,12,1,1
+SF_0067,Environment,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2550,HOME_K,Preintervention,8,1,1
+SF_0068,Environment,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2552,HOME_L,Postintervention,13,1,1
+SF_0069,Environment,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2552,HOME_L,Postintervention,13,1,1
+SF_0071,Environment,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2553,HOME_M,Preintervention,3,0,2
+SF_0072,Environment,FALSE,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2553,HOME_M,Postintervention,3,0,2
+SF_0073,Environment,FALSE,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2553,HOME_M,Postintervention,3,0,2
+SF_0075,Environment,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,kitchen sink faucet handle,pseudintermedius,NA,NA,NA,2553,HOME_M,Postintervention,3,0,2
+SF_0076,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bathroom light switch,pseudintermedius,NA,NA,NA,2558,SHINE_B,Intervention,1,0,1
+SF_0077,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2558,SHINE_B,Intervention,1,0,1
+SF_0078,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2558,SHINE_B,Intervention,1,0,1
+SF_0082,Environment,FALSE,4,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2558,SHINE_B,Postintervention,1,0,1
+SF_0083,Colonizing,FALSE,4,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,14,1_15,1_30,2558,SHINE_B,Intervention,1,0,1
+SF_0085,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,3,NA,NA,2558,SHINE_B,Intervention,1,0,1
+SF_0086,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,2,NA,NA,2558,SHINE_B,Intervention,1,0,1
+SF_0088,Colonizing,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,7,NA,NA,2560,SHINE_C,Intervention,none,1,1
+SF_0090,Colonizing,FALSE,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,0.3,NA,NA,822,SHINE_E,Postintervention,21,0,2
+SF_0091,Environment,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2561,SHINE_F,Intervention,70,0,1
+SF_0092,Colonizing,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,8,NA,NA,2561,SHINE_F,Preintervention,70,0,1
+SF_0093,Colonizing,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,8,NA,NA,2562,SHINE_G,Postintervention,none,1,2
+SF_0094,Colonizing,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2563,SHINE_G,Intervention,none,0,1
+SF_0095,Colonizing,FALSE,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,8,NA,NA,155,SHINE_H,Preintervention,25,0,1
+SF_0096,Colonizing,FALSE,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,10,NA,NA,1961,SHINE_I,Intervention,26,2,2
+SF_0097,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,6,1_15,1_30,2621,SHINE_K,Preintervention,36,0,1
+SF_0098,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,2,NA,NA,2621,SHINE_K,Preintervention,36,0,1
+SF_0100,Colonizing,FALSE,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,3,NA,NA,2564,SHINE_K,Intervention,none,1,1
+SF_0102,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2558,SHINE_J,Preintervention,1,0,1
+SF_0104,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bathroom sink faucet handle,pseudintermedius,NA,NA,NA,2558,SHINE_J,Preintervention,1,0,1
+SF_0108,Environment,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2454,SHINE_J,Postintervention,71,0,1
+SF_0109,Environment,FALSE,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2621,SHINE_K,Intervention,none,0,1
+SF_0112,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,toilet seat,pseudintermedius,NA,NA,NA,2621,SHINE_K,Intervention,36,0,1
+SF_0114,Environment,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2565,SHINE_K,Postintervention,none,0,1
+SF_0115,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,bedsheets,pseudintermedius,6,1_15,1_30,2621,SHINE_K,Intervention,none,0,1
+SF_0117,Environment,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2566,SHINE_L,Postintervention,28,1,1
+SF_0118,Environment,FALSE,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2567,SHINE_L,Postintervention,none,1,1
+SF_0119,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,inguinal folds,pseudintermedius,42,31_45,31_60,2550,SHINE_L,Preintervention,8,1,1
+SF_0120,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,40,31_45,31_60,2550,SHINE_L,Preintervention,none,1,1
+SF_0121,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,13,1_15,1_30,2550,SHINE_L,Preintervention,none,1,1
+SF_0122,Environment,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2566,SHINE_L,Intervention,28,1,1
+SF_0123,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,8,1_15,1_30,2550,SHINE_L,Preintervention,none,1,1
+SF_0124,Colonizing,FALSE,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,6,NA,NA,2567,SHINE_L,Preintervention,58,1,1
+SF_0125,Colonizing,FALSE,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,2,NA,NA,2567,SHINE_L,Preintervention,58,1,1
+SF_0127,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,4,NA,NA,2550,SHINE_L,Preintervention,8,1,1
+SF_0128,Colonizing,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,2,NA,NA,2566,SHINE_L,Intervention,28,1,1
+SF_0129,Environment,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2568,SHINE_M,Postintervention,59,0,1
+SF_0130,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,9,NA,NA,2568,SHINE_M,Postintervention,59,0,1
+SF_0131,Colonizing,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,0.5,NA,NA,2569,SHINE_N,Preintervention,none,1,1
+SF_0132,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2550,SHINE_O,Preintervention,none,1,1
+SF_0133,Colonizing,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2570,SHINE_O,Intervention,none,0,1
+SF_0134,Colonizing,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,3,NA,NA,2456,SHINE_O,Preintervention,23,1,1
+SF_0136,Environment,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Environment,Environment,Environmental,Household,bathtub,pseudintermedius,NA,NA,NA,2571,SHINE_P,Preintervention,37,0,1
+SF_0137,Environment,FALSE,5,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2571,SHINE_P,Intervention,none,0,1
+SF_0139,Environment,FALSE,3,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2571,SHINE_P,Intervention,37,0,1
+SF_0140,Environment,FALSE,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2571,SHINE_P,Postintervention,37,0,1
+SF_0142,Environment,FALSE,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2571,SHINE_P,Intervention,none,0,1
+SF_0144,Colonizing,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,11,NA,NA,2572,SHINE_P,Intervention,60,1,2
+SF_0145,Colonizing,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,1,NA,NA,2572,SHINE_P,Postintervention,60,1,2
+SF_0146,Colonizing,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,13,NA,NA,749,SHINE_Q,Intervention,none,1,1
+SF_0148,Colonizing,FALSE,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,9,NA,NA,2573,SHINE_T,Preintervention,10,1,1
+SF_0149,Environment,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,749,SHINE_Q,Intervention,none,1,1
+SF_0150,Colonizing,FALSE,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,inguinal folds,pseudintermedius,1,1_15,1_30,2549,SHINE_S,Postintervention,12,1,1
+SF_0151,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Colonizing,Human colonizing,Household,axillae,pseudintermedius,43,31_45,31_60,2548,SHINE_S,Postintervention,61,0,1
+SF_0152,Environment,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2573,SHINE_T,Intervention,10,1,1
+SF_0153,Environment,FALSE,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bathtub,pseudintermedius,NA,NA,NA,2573,SHINE_T,Intervention,10,1,1
+SF_0154,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,1952,SHINE_T,Intervention,63,1,1
+SF_0155,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,1952,SHINE_T,Intervention,63,1,1
+SF_0156,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,8,1_15,1_30,2574,SHINE_T,Intervention,10,0,1
+SF_0157,Environment,FALSE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2574,SHINE_T,Intervention,none,0,1
+SF_0158,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,4,1_15,1_30,2574,SHINE_T,Intervention,62,0,1
+SF_0159,Colonizing,FALSE,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,8,NA,NA,2573,SHINE_T,Preintervention,10,1,1
+SF_0160,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,1,NA,NA,2574,SHINE_T,Intervention,62,0,1
+SF_0162,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathtub,pseudintermedius,NA,NA,NA,2575,SHINE_U,Intervention,14,0,1
+SF_0163,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2575,SHINE_U,Postintervention,14,0,1
+SF_0164,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2575,SHINE_U,Intervention,14,0,1
+SF_0165,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,10,NA,NA,2575,SHINE_U,Intervention,none,0,1
+SF_0166,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,6,NA,NA,2575,SHINE_U,Intervention,14,0,1
+SF_0167,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,3,NA,NA,2015,SHINE_V,Preintervention,none,0,1
+SF_0168,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,1,NA,NA,2576,SHINE_V,Preintervention,none,1,1
+SF_0169,Environment,FALSE,5,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2577,SHINE_W,Preintervention,30,0,1
+SF_0170,Environment,FALSE,6,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2577,SHINE_W,Intervention,none,0,1
+SF_0171,Environment,FALSE,3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Environment,Environment,Environmental,Household,bathroom sink faucet handle,pseudintermedius,NA,NA,NA,2578,SHINE_W,Postintervention,none,0,1
+SF_0172,Environment,FALSE,5,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Environment,Environment,Environmental,Household,kitchen sink faucet handle,pseudintermedius,NA,NA,NA,2577,SHINE_W,Postintervention,30,0,1
+SF_0173,Environment,FALSE,4,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,875,SHINE_W,Postintervention,29,0,1
+SF_0174,Environment,FALSE,2,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,875,SHINE_W,Postintervention,29,0,1
+SF_0175,Colonizing,FALSE,2,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,46,46_60,31_60,875,SHINE_W,Intervention,29,0,1
+SF_0176,Colonizing,FALSE,6,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,11,NA,NA,2577,SHINE_W,Preintervention,30,0,1
+SF_0177,Environment,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2579,SHINE_X,Preintervention,none,0,1
+SF_0178,Colonizing,FALSE,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,1,1_15,1_30,1316,SHINE_X,Preintervention,none,0,1
+SF_0179,Colonizing,FALSE,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,axillae,pseudintermedius,20,16_30,1_30,2580,SHINE_X,Preintervention,none,0,1
+SF_0180,Colonizing,FALSE,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,20,16_30,1_30,not defined,SHINE_X,Preintervention,none,0,1
+SF_0182,Colonizing,FALSE,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,0.2,NA,NA,not defined,SHINE_X,Preintervention,none,0,1
+SF_0185,Colonizing,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2582,SHINE_Z,Intervention,none,0,1
+SF_0186,Colonizing,FALSE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,12,NA,NA,2583,SHINE_AA,Intervention,none,0,1
+SF_0189,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,13,NA,NA,2584,SHINE_AB,Preintervention,none,0,2
+SF_0190,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,7,NA,NA,2585,SHINE_AC,Intervention,none,0,1
+SF_0192,Colonizing,FALSE,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,0.58,NA,NA,2586,SHINE_AD,Postintervention,none,0,1
+SF_0193,Colonizing,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,2,NA,NA,2587,SHINE_AE,Preintervention,none,1,1
+SF_0194,Colonizing,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,inguinal folds,pseudintermedius,7,1_15,1_30,2588,SHINE_AF,Postintervention,none,0,1
+SF_0195,Colonizing,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2589,SHINE_AF,Intervention,15,1,1
+SF_0196,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,11,NA,NA,2590,SHINE_AG,Intervention,none,1,1
+SF_0244,Environment,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,2580,SHINE_X,Preintervention,none,0,1
+SF_0245,Environment,FALSE,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Environment,Environment,Environmental,Household,bathroom sink faucet handle,pseudintermedius,NA,NA,NA,2591,SHINE_X,Preintervention,none,0,1
+SF_0246,Environment,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,kitchen sink faucet handle,pseudintermedius,NA,NA,NA,2592,SHINE_X,Preintervention,none,0,1
+SF_0247,Environment,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2128,SHINE_X,Preintervention,none,0,1
+SF_0248,Environment,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2593,SHINE_X,Intervention,64,0,1
+SF_0249,Colonizing,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,bedsheets,pseudintermedius,3,1_15,1_30,2593,SHINE_X,Preintervention,64,0,1
+SF_0250,Environment,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2594,SHINE_Y,Postintervention,none,0,1
+SF_0251,Environment,FALSE,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2595,SHINE_AA,Intervention,none,1,1
+SF_0252,Environment,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2589,SHINE_AF,Intervention,15,1,1
+SF_0253,Environment,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,toilet handle,pseudintermedius,NA,NA,NA,2589,SHINE_AF,Intervention,15,1,1
+SF_0254,Environment,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2589,SHINE_AF,Intervention,15,1,1
+SF_0259,Colonizing,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Human,Colonizing,Human colonizing,Household,bedsheets,pseudintermedius,4,1_15,1_30,2596,SHINE_AF,Intervention,none,0,1
+SF_0261,Environment,FALSE,3,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,188,SHINE_AH,Preintervention,18,0,1
+SF_0262,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,2,NA,NA,257,SHINE_AH,Postintervention,none,0,1
+SF_0263,Environment,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2597,SHINE_AI,Postintervention,65,0,2
+SF_0264,Environment,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2597,SHINE_AI,Postintervention,65,0,2
+SF_0265,Environment,FALSE,3,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,313,SHINE_AJ,Postintervention,none,1,1
+SF_0266,Environment,FALSE,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2598,SHINE_AK,Intervention,none,1,1
+SF_0269,Colonizing,FALSE,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,0.67,NA,NA,2598,SHINE_AK,Intervention,none,1,1
+SF_0270,Environment,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,telephone,pseudintermedius,NA,NA,NA,829,SHINE_AL,Preintervention,31,0,1
+SF_0271,Environment,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,829,SHINE_AL,Intervention,none,0,1
+SF_0272,Environment,FALSE,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,829,SHINE_AL,Intervention,31,0,1
+SF_0273,Colonizing,FALSE,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,829,SHINE_AL,Preintervention,31,0,1
+SF_0274,Colonizing,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,8,NA,NA,2599,SHINE_AM,Preintervention,none,1,1
+SF_0275,Colonizing,FALSE,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,7,NA,NA,2600,SHINE_AM,Preintervention,none,0,1
+SF_0276,Colonizing,FALSE,3,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,0.7,NA,NA,1229,SHINE_AN,Postintervention,17,0,1
+SF_0277,Colonizing,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2601,SHINE_AO,Preintervention,none,0,1
+SF_0278,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2602,SHINE_AP,Preintervention,32,1,1
+SF_0279,Environment,FALSE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bathtub,pseudintermedius,NA,NA,NA,2602,SHINE_AP,Preintervention,32,1,1
+SF_0280,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,36,31_45,31_60,2602,SHINE_AP,Preintervention,32,1,1
+SF_0281,Environment,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2602,SHINE_AP,Preintervention,none,1,1
+SF_0282,Colonizing,FALSE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,7,NA,NA,2000,SHINE_AP,Preintervention,66,0,1
+SF_0283,Colonizing,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2000,SHINE_AP,Preintervention,66,0,1
+SF_0284,Colonizing,FALSE,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,0.5,NA,NA,2603,SHINE_AQ,Intervention,none,0,1
+SF_0285,Colonizing,FALSE,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,5,NA,NA,2604,SHINE_AR,Preintervention,68,1,1
+SF_0286,Colonizing,FALSE,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,1.5,NA,NA,2604,SHINE_AR,Preintervention,68,1,1
+SF_0287,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,4,NA,NA,2605,SHINE_AS,Preintervention,none,0,1
+SF_0289,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,12,NA,NA,2606,SHINE_AT,Intervention,4,0,1
+SF_0290,Colonizing,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,0.42,NA,NA,2607,SHINE_AU,Preintervention,none,2,2
+SF_0291,Colonizing,FALSE,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2620,SHINE_AV,Intervention,33,1,1
+SF_0292,Colonizing,FALSE,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Human,Colonizing,Human colonizing,Household,bedsheets,pseudintermedius,NA,NA,NA,923,SHINE_AR,Preintervention,7,1,1
+SF_0293,Environment,FALSE,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,923,SHINE_AS,Preintervention,7,1,1
+SF_0294,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,bedsheets,pseudintermedius,NA,NA,NA,2606,SHINE_AS,Preintervention,4,0,1
+SF_0295,Environment,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2606,SHINE_AT,Preintervention,4,0,1
+SF_0296,Environment,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2606,SHINE_AT,Intervention,4,0,1
+SF_0298,Environment,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom light switch,pseudintermedius,NA,NA,NA,2606,SHINE_AT,Postintervention,4,0,1
+SF_0299,Environment,FALSE,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Environment,Environment,Environmental,Household,toilet handle,pseudintermedius,NA,NA,NA,2608,SHINE_AT,Postintervention,none,1,1
+SF_0300,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,2,1_15,1_30,2606,SHINE_AT,Preintervention,4,0,1
+SF_0301,Colonizing,FALSE,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Human,Colonizing,Human colonizing,Household,nares,pseudintermedius,37,31_45,31_60,2606,SHINE_AT,Intervention,4,0,1
+SF_0302,Environment,FALSE,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2620,SHINE_AT,Postintervention,33,1,1
+SF_0303,Environment,FALSE,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,2620,SHINE_AV,Preintervention,33,1,1
+SF_0304,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,3,NA,NA,2609,SHINE_AV,Preintervention,none,1,2
+SF_0308,Environment,FALSE,2,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,Environment,Environment,Environmental,Household,toilet handle,pseudintermedius,NA,NA,NA,1486,SHINE_AX,Preintervention,none,0,1
+SF_0309,Environment,FALSE,2,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,Environment,Environment,Environmental,Household,bathroom countertop,pseudintermedius,NA,NA,NA,2610,SHINE_AX,Preintervention,34,0,1
+SF_0310,Environment,FALSE,2,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,Environment,Environment,Environmental,Household,kitchen table,pseudintermedius,NA,NA,NA,2610,SHINE_AX,Preintervention,34,0,1
+SF_0311,Environment,FALSE,2,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2610,SHINE_AX,Intervention,34,0,1
+SF_0312,Colonizing,FALSE,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,3,NA,NA,2611,SHINE_AX,Preintervention,none,0,1
+SF_0313,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,10,NA,NA,2612,SHINE_AY,Preintervention,69,1,1
+SF_0314,Environment,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Environment,Environment,Environmental,Household,toilet seat,pseudintermedius,NA,NA,NA,1207,SHINE_AZ,Intervention,11,0,1
+SF_0315,Colonizing,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Colonizing,Human colonizing,Household,bedsheets,pseudintermedius,1,1_15,1_30,1207,SHINE_AZ,Preintervention,11,0,1
+SF_0316,Colonizing,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Human,Colonizing,Human colonizing,Household,axillae,pseudintermedius,3,1_15,1_30,1207,SHINE_AZ,Preintervention,11,0,1
+SF_0317,Colonizing,FALSE,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,6,NA,NA,1207,SHINE_AZ,Preintervention,11,0,1
+SF_0318,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,2,NA,NA,651,SHINE_AZ,Preintervention,none,1,1
+SF_0319,Colonizing,FALSE,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,1,NA,NA,2612,SHINE_AZ,Preintervention,69,1,1
+SF_0320,Colonizing,FALSE,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,1,NA,NA,1207,SHINE_AZ,Preintervention,11,0,1
+SF_0321,Colonizing,FALSE,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,1,NA,NA,2553,SHINE_AZ,Preintervention,3,0,2
+SF_0324,Environment,FALSE,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Environment,Environment,Environmental,Household,bedsheets,pseudintermedius,NA,NA,NA,#N/A,SHINE_BA,Intervention,#N/A,0,2
+SF_0326,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,12,NA,NA,2613,SHINE_BB,Intervention,none,0,1
+SF_0327,Colonizing,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,11,NA,NA,2614,SHINE_BB,Intervention,none,0,1
+SF_0328,Colonizing,FALSE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,5,NA,NA,2615,SHINE_BB,Intervention,none,0,1
+SF_0329,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,bathroom light switch,pseudintermedius,NA,NA,NA,2616,SHINE_BC,Preintervention,none,1,1
+SF_0330,Environment,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Environment,Environment,Environmental,Household,refrigerator door handle,pseudintermedius,NA,NA,NA,2617,SHINE_BC,Preintervention,35,0,1
+SF_0331,Environment,FALSE,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Environment,Environment,Environmental,Household,tv remote,pseudintermedius,NA,NA,NA,2618,SHINE_BD,Preintervention,none,1,1
+SF_0332,Environment,FALSE,5,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,Environment,Environment,Environmental,Household,computer keyboard/mouse,pseudintermedius,NA,NA,NA,2619,SHINE_BD,Preintervention,16,1,1
+SF_0333,Colonizing,FALSE,5,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,12,NA,NA,2619,SHINE_BD,Preintervention,16,1,1
+SF_0334,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,10,NA,NA,2617,SHINE_BD,Preintervention,35,0,1
+SF_0335,Colonizing,FALSE,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,mouth,pseudintermedius,8,NA,NA,2617,SHINE_BD,Preintervention,35,0,1
+SF_0336,Colonizing,FALSE,5,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,6,NA,NA,2619,SHINE_BD,Preintervention,16,1,1
+SF_0337,Colonizing,FALSE,4,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,Animal,Colonizing,Animal colonizing,Household,dorsal fur,pseudintermedius,9,NA,NA,2619,SHINE_BD,Preintervention,16,1,1
