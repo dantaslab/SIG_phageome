@@ -1,2 +1,2 @@
 # SIG_phageome
-Unique bacterial-phage interaction signatures distinguish Staphylococcus pseudintermedius in diagnostic environments
+Phage ecology drives niche-specific adaptation of Staphylococcus pseudintermedius in clinical diagnostic settings 
