@@ -1,5 +1,5 @@
 # SIG_phageome
-**Phage ecology drives niche-specific adaptation of *Staphylococcus pseudintermedius* in clinical diagnostic settings**
+**Phage ecology drives niche-specific adaptation of *Staphylococcus pseudintermedius* (*Sp*) in clinical diagnostic settings**
 
 ## Phage analysis pipeline among *Sp* genomes
 **Phage identification**
