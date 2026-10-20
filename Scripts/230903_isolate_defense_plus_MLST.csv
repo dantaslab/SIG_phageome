@@ -1,0 +1,494 @@
+﻿Isolate,Abi2,AbiD,AbiJ,AbiL,AbiN,AbiP2,AbiR,AbiU,Cas,CBASS,Dodola,DRT,Eleos,Gabija,Kiwa,Lamassu-Fam,Nhi,PD-Lambda-1,PD-T4-9,PD-T7-2,Pycsar,Retron,RloC,RM,RosmerTA,SEFIR,ShosTA,SoFIC,Stk2,Thoeris,Total,Phage_Count,Type,Source,Cohort,Bodysite,Group,Type2,MLST
+HI_0097,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7,2,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2495
+HI_0094,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2495
+SF_0186,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,7,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2583
+HI_0132,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,701
+AI_0091,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,9,2,Diagnostic,Animal,Animal diagnostic,wouns,AI,Diagnostic,2442
+HI_0086,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,7,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2490
+HI_0133,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2515
+AI_0017,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Diagnostic,Animal,Animal diagnostic,skin biopsy,AI,Diagnostic,2395
+HI_0038,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,3,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2466
+AI_0093,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,1297
+SF_0331,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,8,3,Environmental,Environmental,Environmental,tv remote,Household,Household,2618
+HI_0079,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,6,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2486
+HI_0137,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2517
+HI_0036,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2464
+HI_0111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2502
+SF_0327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,3,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2614
+AI_0090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,3,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2441
+SF_0283,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,4,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2000
+SF_0282,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,4,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2000
+SF_0279,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,1,Environmental,Environmental,Environmental,bathtub,Household,Household,2602
+SF_0281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,2602
+SF_0280,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,3,Colonizing,Human,Human colonizing,nares,Household,Household,2602
+SF_0278,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,3,Environmental,Environmental,Environmental,tv remote,Household,Household,2602
+AI_0023,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,1,0,0,8,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2399
+HI_0013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,3,2,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2453
+SF_0190,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2585
+SF_0272,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,829
+SF_0273,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,6,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,829
+SF_0270,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,telephone,Household,Household,829
+SF_0271,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,tv remote,Household,Household,829
+AI_0003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,0,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2386
+HI_0002,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2448
+AI_0067,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2428
+HI_0182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,3,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,1390
+AI_0029,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,4,Diagnostic,Animal,Animal diagnostic,vaginal,AI,Diagnostic,2403
+HI_0042,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2403
+AI_0057,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,4,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,820
+HI_0152,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2521
+HI_0141,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2521
+AI_0043,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,4,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,23
+HI_0108,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1390
+HI_0173,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,1390
+HI_0123,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,5,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,820
+HI_0135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,5,2,Diagnostic,Human,Human diagnostic,abscess,HI,Diagnostic,820
+SF_0139,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,kitchen table,Household,Household,2571
+SF_0137,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,5,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2571
+SF_0142,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2571
+SF_0136,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bathtub,Household,Household,2571
+SF_0140,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,telephone,Household,Household,2571
+HI_0125,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2511
+SF_0299,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,toilet handle,Household,Household,2608
+HI_0176,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,768
+HI_0096,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,1,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2488
+HI_0083,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2488
+AI_0078,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,5,0,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2435
+AI_0062,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,5,4,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,2423
+SF_0015,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,2,Environmental,Environmental,Environmental,telephone,Household,Household,759
+SF_0014,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Environmental,Environmental,Environmental,tv remote,Household,Household,759
+SF_0017,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Environmental,Environmental,Environmental,bathroom light switch,Household,Household,759
+SF_0019,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,759
+SF_0016,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Environmental,Environmental,Environmental,bathroom sink faucet handle,Household,Household,759
+SF_0012,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Environmental,Environmental,Environmental,kitchen sink faucet handle,Household,Household,759
+SF_0021,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,Colonizing,Human,Human colonizing,axillae,Household,Household,759
+SF_0023,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Colonizing,Animal,Animal colonizing,nares,Household,Household,759
+SF_0018,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,5,1,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,759
+HI_0127,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,8,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,21
+HI_0106,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,9,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2499
+SF_0309,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,10,2,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2610
+SF_0310,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,10,2,Environmental,Environmental,Environmental,kitchen table,Household,Household,2610
+SF_0311,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,10,2,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2610
+AI_0038,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2411
+AI_0079,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,6,2,Diagnostic,Animal,Animal diagnostic,foot,AI,Diagnostic,2436
+AI_0097,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,3,Diagnostic,Animal,Animal diagnostic,abscess,AI,Diagnostic,2445
+SF_0003,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Environmental,Environmental,Environmental,telephone,Household,Household,2539
+SF_0006,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2539
+AI_0033,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,6,2,Diagnostic,Animal,Animal diagnostic,nasal,AI,Diagnostic,2407
+SF_0037,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,8,0,Colonizing,Human,Human colonizing,nares,Household,Household,2545
+SF_0036,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,8,0,Environmental,Environmental,Environmental,telephone,Household,Household,2545
+SF_0038,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,8,0,Colonizing,Human,Human colonizing,inguinal folds,Household,Household,2545
+SF_0032,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,8,0,Environmental,Environmental,Environmental,tv remote,Household,Household,2545
+SF_0033,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,8,1,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2545
+SF_0064,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,8,0,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2545
+SF_0133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2570
+HI_0031,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2460
+SF_0328,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,8,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2615
+HI_0011,1,1,1,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,10,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2452
+AI_0045,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,1,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,2413
+SF_0286,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,4,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2604
+SF_0285,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,4,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2604
+HI_0149,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,5,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,831
+HI_0151,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,8,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2524
+HI_0066,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2479
+HI_0063,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2477
+AI_0060,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,5,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,832
+HI_0117,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1512
+SF_0178,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,nares,Household,Household,1316
+SF_0261,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,188
+HI_0172,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,188
+AI_0018,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,188
+HI_0081,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,188
+HI_0087,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,5,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2491
+SF_0155,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,3,Environmental,Environmental,Environmental,kitchen table,Household,Household,1952
+SF_0154,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,3,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,1952
+HI_0109,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2500
+HI_0077,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2485
+HI_0078,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2485
+HI_0104,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2498
+SF_0189,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,7,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2584
+SF_0167,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2015
+AI_0085,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,4,Diagnostic,Animal,Animal diagnostic,skin biopsy,AI,Diagnostic,2437
+HI_0156,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2527
+SF_0122,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,0,Environmental,Environmental,Environmental,bedsheets,Household,Household,2566
+SF_0117,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,0,Environmental,Environmental,Environmental,tv remote,Household,Household,2566
+SF_0128,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,0,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2566
+HI_0124,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2510
+HI_0131,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2510
+HI_0128,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2510
+HI_0171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,5,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2535
+HI_0188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,5,2,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2535
+HI_0115,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2505
+HI_0074,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2483
+HI_0073,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2483
+AI_0016,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,3,Diagnostic,Animal,Animal diagnostic,abscess,AI,Diagnostic,2394
+AI_0021,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2398
+SF_0062,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,4,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2549
+SF_0041,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2549
+SF_0065,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,1,Environmental,Environmental,Environmental,bathtub,Household,Household,2549
+SF_0150,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,4,Colonizing,Human,Human colonizing,inguinal folds,Household,Household,2549
+AI_0030,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,4,3,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2404
+HI_0134,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2516
+HI_0187,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,978
+HI_0143,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,3,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,978
+SF_0025,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,tv remote,Household,Household,2544
+SF_0027,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,2544
+SF_0029,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2544
+SF_0028,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,toilet seat,Household,Household,2544
+SF_0030,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,kitchen table,Household,Household,2544
+SF_0031,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,4,Colonizing,Human,Human colonizing,axillae,Household,Household,2544
+AI_0011,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,7,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2390
+SF_0130,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2568
+SF_0129,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2568
+AI_0001,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,1,0,0,9,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2385
+HI_0069,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,4,2,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2480
+HI_0084,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,0,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2489
+SF_0313,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2612
+SF_0319,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2612
+SF_0329,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,3,Environmental,Environmental,Environmental,bathroom light switch,Household,Household,2616
+HI_0159,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,Diagnostic,Human,Human diagnostic,abscess,HI,Diagnostic,897
+HI_0023,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2457
+AI_0019,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,6,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2396
+HI_0139,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2519
+HI_0145,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2519
+SF_0153,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,6,3,Environmental,Environmental,Environmental,bathtub,Household,Household,2573
+SF_0152,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,6,2,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2573
+SF_0148,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,5,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2573
+SF_0159,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,5,4,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2573
+SF_0290,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,7,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2607
+SF_0144,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,6,1,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2572
+SF_0145,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,6,2,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2572
+HI_0053,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,4,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1506
+HI_0175,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,1,6,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2537
+SF_0026,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,5,2,Environmental,Environmental,Environmental,telephone,Household,Household,1506
+HI_0061,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,5,2,Diagnostic,Human,Human diagnostic,abscess,HI,Diagnostic,1506
+SF_0196,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2590
+SF_0009,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Environmental,Environmental,Environmental,kitchen table,Household,Household,2542
+SF_0011,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2542
+SF_0010,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,1,Colonizing,Animal,Animal colonizing,nares,Household,Household,2542
+AI_0064,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,2,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,2425
+SF_0052,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Animal,Animal colonizing,nares,Household,Household,2555
+SF_0053,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Animal,Animal colonizing,nares,Household,Household,2555
+AI_0087,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,2439
+HI_0070,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2481
+SF_0318,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,651
+AI_0094,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,5,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2443
+SF_0020,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,1509
+HI_0178,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,6,3,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2538
+SF_0043,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,6,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2551
+HI_0076,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,5,0,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,806
+SF_0287,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2605
+SF_0245,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,5,Environmental,Environmental,Environmental,bathroom sink faucet handle,Household,Household,2591
+HI_0092,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,0,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2494
+SF_0118,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2567
+SF_0125,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2567
+SF_0124,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2567
+AI_0036,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2409
+SF_0274,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2599
+SF_0085,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2558
+SF_0076,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,bathroom light switch,Household,Household,2558
+SF_0082,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,4,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2558
+SF_0102,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,telephone,Household,Household,2558
+SF_0104,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,bathroom sink faucet handle,Household,Household,2558
+SF_0078,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,kitchen table,Household,Household,2558
+SF_0077,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2558
+SF_0083,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,4,Colonizing,Human,Human colonizing,nares,Household,Household,2558
+SF_0086,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,8,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2558
+SF_0047,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,1,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2552
+SF_0045,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,1,Colonizing,Human,Human colonizing,nares,Household,Household,2552
+SF_0068,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,1,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2552
+SF_0069,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,1,Environmental,Environmental,Environmental,tv remote,Household,Household,2552
+SF_0259,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,2,Colonizing,Human,Human colonizing,bedsheets,Household,Household,2596
+SF_0194,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,Colonizing,Human,Human colonizing,inguinal folds,Household,Household,2588
+SF_0195,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,0,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2589
+SF_0253,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,0,Environmental,Environmental,Environmental,toilet handle,Household,Household,2589
+SF_0252,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,0,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2589
+SF_0254,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,0,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2589
+SF_0304,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2609
+SF_0277,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2601
+HI_0174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2536
+SF_0289,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2606
+SF_0298,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Environmental,Environmental,Environmental,bathroom light switch,Household,Household,2606
+SF_0296,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2606
+SF_0301,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Colonizing,Human,Human colonizing,nares,Household,Household,2606
+SF_0294,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Human,Human colonizing,bedsheets,Household,Household,2606
+SF_0295,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Environmental,Environmental,Environmental,tv remote,Household,Household,2606
+SF_0300,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Human,Human colonizing,nares,Household,Household,2606
+HI_0144,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,1,Diagnostic,Human,Human diagnostic,body fluid,HI,Diagnostic,2523
+HI_0161,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2530
+AI_0086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,3,1,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,2438
+SF_0180,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,4,Colonizing,Human,Human colonizing,nares,Household,Household,not defined
+SF_0247,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,6,3,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2128
+SF_0246,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,6,2,Environmental,Environmental,Environmental,kitchen sink faucet handle,Household,Household,2592
+SF_0249,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,bedsheets,Household,Household,2593
+SF_0248,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,kitchen table,Household,Household,2593
+SF_0182,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,5,4,Colonizing,Animal,Animal colonizing,mouth,Household,Household,not defined
+SF_0177,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,6,2,Environmental,Environmental,Environmental,tv remote,Household,Household,2579
+SF_0179,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Colonizing,Human,Human colonizing,axillae,Household,Household,2580
+SF_0244,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,telephone,Household,Household,2580
+HI_0101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,4,Diagnostic,Human,Human diagnostic,abscess,HI,Diagnostic,2497
+HI_0049,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2471
+AI_0100,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,2,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,2447
+SF_0040,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2548
+SF_0151,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Human,Human colonizing,axillae,Household,Household,2548
+AI_0044,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Diagnostic,Animal,Animal diagnostic,skin biopsy,AI,Diagnostic,833
+HI_0116,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2506
+SF_0172,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,5,Environmental,Environmental,Environmental,kitchen sink faucet handle,Household,Household,2577
+SF_0176,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,6,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2577
+SF_0169,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,5,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2577
+SF_0170,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,6,Environmental,Environmental,Environmental,tv remote,Household,Household,2577
+HI_0044,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2469
+AI_0063,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2424
+AI_0031,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,4,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2405
+HI_0170,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2361
+SF_0114,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,2565
+HI_0043,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2468
+SF_0091,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2561
+SF_0092,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2561
+SF_0263,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,3,Environmental,Environmental,Environmental,tv remote,Household,Household,2597
+SF_0264,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2597
+AI_0082,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,1,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,822
+SF_0090,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,822
+HI_0055,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,822
+AI_0037,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,9,1,Diagnostic,Animal,Animal diagnostic,surgical plate,AI,Diagnostic,2410
+SF_0058,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,kitchen table,Household,Household,862
+SF_0059,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,8,1,Colonizing,Human,Human colonizing,axillae,Household,Household,862
+SF_0056,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,8,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,862
+SF_0057,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,8,4,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,862
+SF_0060,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,8,3,Colonizing,Animal,Animal colonizing,nares,Household,Household,862
+AI_0055,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,9,1,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2418
+SF_0193,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2587
+AI_0046,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,1,0,0,9,1,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2414
+AI_0072,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,8,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2431
+SF_0284,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2603
+HI_0045,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,5,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2414
+HI_0167,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,3,Diagnostic,Human,Human diagnostic,abscess,HI,Diagnostic,2533
+SF_0112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,4,3,Environmental,Environmental,Environmental,toilet seat,Household,Household,2621
+SF_0098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2621
+SF_0097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,3,Colonizing,Human,Human colonizing,nares,Household,Household,2621
+SF_0115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,3,Colonizing,Human,Human colonizing,bedsheets,Household,Household,2621
+SF_0109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,4,4,Environmental,Environmental,Environmental,tv remote,Household,Household,2621
+HI_0140,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2520
+SF_0007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,1,Environmental,Environmental,Environmental,bedsheets,Household,Household,882
+HI_0166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,882
+HI_0165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,882
+HI_0164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,4,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,882
+HI_0130,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,5,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2514
+HI_0142,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2522
+HI_0025,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,7,3,Diagnostic,Human,Human diagnostic,abscess,HI,Diagnostic,2459
+HI_0026,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,7,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2459
+SF_0051,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2554
+HI_0110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,3,1,Diagnostic,Human,Human diagnostic,body fluid,HI,Diagnostic,2501
+SF_0316,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,axillae,Household,Household,1207
+SF_0314,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,toilet seat,Household,Household,1207
+SF_0315,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,bedsheets,Household,Household,1207
+SF_0320,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,1207
+SF_0317,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,1207
+HI_0004,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1933
+AI_0056,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,6,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2419
+AI_0052,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2417
+HI_0052,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,2,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2473
+SF_0275,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7,4,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2600
+HI_0138,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,9,1,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2518
+AI_0027,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2402
+SF_0156,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,3,Colonizing,Human,Human colonizing,nares,Household,Household,2574
+SF_0158,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,3,Colonizing,Human,Human colonizing,nares,Household,Household,2574
+SF_0160,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2574
+SF_0157,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,5,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2574
+AI_0008,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Diagnostic,Animal,Animal diagnostic,draining tract,AI,Diagnostic,1673
+AI_0098,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,9,4,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2446
+AI_0076,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,6,0,Diagnostic,Animal,Animal diagnostic,skin biopsy,AI,Diagnostic,755
+HI_0041,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,8,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2467
+SF_0185,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,5,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2582
+HI_0147,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,8,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,755
+AI_0041,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,8,1,Diagnostic,Animal,Animal diagnostic,abscess,AI,Diagnostic,755
+SF_0108,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,kitchen table,Household,Household,2454
+HI_0017,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,5,3,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2454
+SF_0162,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,5,3,Environmental,Environmental,Environmental,bathtub,Household,Household,2575
+SF_0164,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,5,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,2575
+SF_0165,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,5,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2575
+SF_0163,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,5,3,Environmental,Environmental,Environmental,telephone,Household,Household,2575
+SF_0166,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,5,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2575
+HI_0088,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,261
+AI_0074,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,6,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2433
+HI_0056,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2474
+HI_0058,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2474
+HI_0007,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2450
+HI_0008,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,3,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2451
+SF_0008,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,5,1,Colonizing,Animal,Animal colonizing,nares,Household,Household,2541
+AI_0071,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,3,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2430
+HI_0071,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2482
+SF_0250,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,0,Environmental,Environmental,Environmental,kitchen table,Household,Household,2594
+AI_0095,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,5,2,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,1431
+SF_0332,1,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,9,5,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2619
+SF_0336,1,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,9,5,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2619
+SF_0333,1,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,9,5,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2619
+SF_0337,1,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,9,4,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2619
+HI_0033,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,5,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2462
+HI_0034,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2463
+HI_0155,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,5,6,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2526
+HI_0028,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,11,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,923
+HI_0020,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,10,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,923
+AI_0034,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,10,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,923
+AI_0042,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,10,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,923
+SF_0293,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,10,2,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,923
+SF_0292,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,10,2,Colonizing,Human,Human colonizing,bedsheets,Household,Household,923
+SF_0251,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,tv remote,Household,Household,2595
+SF_0094,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2563
+HI_0168,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2534
+SF_0005,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,1,Environmental,Environmental,Environmental,bedsheets,Household,Household,2540
+SF_0265,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,0,11,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,313
+HI_0163,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2532
+HI_0089,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2492
+SF_0050,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2553
+SF_0071,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,telephone,Household,Household,2553
+SF_0072,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,1,Environmental,Environmental,Environmental,tv remote,Household,Household,2553
+SF_0075,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,kitchen sink faucet handle,Household,Household,2553
+SF_0073,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,1,Environmental,Environmental,Environmental,bedsheets,Household,Household,2553
+SF_0324,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2553
+SF_0048,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,1,Colonizing,Human,Human colonizing,inguinal folds,Household,Household,2553
+SF_0321,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,8,1,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2553
+AI_0048,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,1,Diagnostic,Animal,Animal diagnostic,draining tract,AI,Diagnostic,2415
+AI_0058,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,0,Diagnostic,Animal,Animal diagnostic,abscess,AI,Diagnostic,2420
+HI_0162,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2531
+SF_0134,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,1,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2456
+HI_0022,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2456
+HI_0021,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2456
+AI_0020,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,0,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2397
+HI_0154,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2525
+AI_0050,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,5,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2416
+HI_0039,0,1,2,0,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,13,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,84
+HI_0040,0,1,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,10,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,909
+HI_0119,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,4,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2508
+SF_0334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2617
+SF_0330,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,3,Environmental,Environmental,Environmental,refrigerator door handle,Household,Household,2617
+SF_0335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2617
+AI_0025,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,1,Diagnostic,Animal,Animal diagnostic,nasal,AI,Diagnostic,2401
+HI_0158,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,5,0,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2528
+AI_0032,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2406
+SF_0093,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,6,0,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2562
+SF_0146,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,0,Colonizing,Animal,Animal colonizing,mouth,Household,Household,749
+SF_0149,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,0,Environmental,Environmental,Environmental,bathroom countertop,Household,Household,749
+AI_0012,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,6,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2391
+SF_0096,0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,1961
+HI_0169,0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,1,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,1961
+HI_0103,0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,1,Diagnostic,Human,Human diagnostic,blood,HI,Diagnostic,1961
+HI_0065,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,4,4,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2478
+SF_0039,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,0,Colonizing,Human,Human colonizing,nares,Household,Household,2546
+SF_0034,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,0,Environmental,Environmental,Environmental,kitchen sink faucet handle,Household,Household,2546
+HI_0126,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,6,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2512
+AI_0070,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,6,0,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2429
+HI_0001,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,7,0,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1321
+AI_0099,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,7,1,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,192
+SF_0131,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,0,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2569
+AI_0009,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,8,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2388
+SF_0022,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,7,1,Colonizing,Animal,Animal colonizing,nares,Household,Household,2543
+SF_0175,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,nares,Household,Household,875
+SF_0173,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,4,Environmental,Environmental,Environmental,telephone,Household,Household,875
+SF_0171,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,bathroom sink faucet handle,Household,Household,2578
+SF_0174,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,875
+HI_0093,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,8,3,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,1189
+AI_0075,1,0,1,1,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,9,4,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2434
+HI_0027,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,7,4,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,412
+AI_0065,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,6,3,Diagnostic,Animal,Animal diagnostic,incision,AI,Diagnostic,2426
+HI_0016,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,10,1,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,727
+AI_0015,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,5,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2393
+HI_0051,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2472
+AI_0061,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,8,3,Diagnostic,Animal,Animal diagnostic,skin biopsy,AI,Diagnostic,2422
+HI_0118,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2507
+HI_0090,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,8,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1444
+SF_0192,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2586
+HI_0060,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2475
+HI_0059,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,1,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2475
+AI_0096,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2444
+HI_0062,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,7,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,2476
+AI_0005,1,0,1,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,9,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2387
+SF_0100,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,4,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2564
+HI_0032,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,6,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2461
+SF_0061,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,7,2,Environmental,Environmental,Environmental,toilet seat,Household,Household,2557
+HI_0005,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,8,1,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2449
+SF_0055,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,9,2,Environmental,Environmental,Environmental,kitchen sink faucet handle,Household,Household,2556
+SF_0088,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,7,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2560
+HI_0091,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2493
+HI_0048,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,7,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2470
+HI_0024,1,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,13,3,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,2458
+SF_0308,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,1,0,9,2,Environmental,Environmental,Environmental,toilet handle,Household,Household,1486
+HI_0098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,3,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2496
+HI_0112,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,11,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2503
+HI_0113,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,11,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2503
+HI_0185,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,7,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1360
+HI_0046,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,7,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,941
+AI_0007,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,8,2,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,337
+HI_0010,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,8,3,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,241
+HI_0146,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,8,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,241
+AI_0069,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,7,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2275
+AI_0024,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,5,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2400
+AI_0068,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,1,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,555
+HI_0037,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,6,1,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2465
+HI_0082,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,3,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2487
+AI_0089,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2440
+SF_0168,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,5,1,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2576
+AI_0073,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,6,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2432
+AI_0066,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6,3,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,2427
+AI_0002,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,764
+AI_0040,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2412
+AI_0059,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,4,2,Diagnostic,Animal,Animal diagnostic,incision,AI,Diagnostic,2421
+SF_0269,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3,1,0,0,1,0,0,9,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,2598
+SF_0266,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3,1,0,0,1,0,0,9,3,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2598
+HI_0030,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,698
+AI_0092,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,4,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,45
+AI_0026,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Animal,Animal diagnostic,foot,AI,Diagnostic,311
+AI_0080,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,6,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,45
+AI_0004,1,1,2,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,13,2,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,496
+AI_0039,1,1,2,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,12,4,Diagnostic,Animal,Animal diagnostic,skin,AI,Diagnostic,121
+SF_0291,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2620
+SF_0303,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2620
+SF_0302,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2620
+HI_0186,1,0,1,0,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,1,0,0,13,1,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,551
+HI_0035,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,9,2,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,181
+HI_0003,1,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,10,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,181
+HI_0177,1,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,10,3,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,181
+SF_0276,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,8,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,1229
+HI_0179,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,9,4,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,1229
+HI_0181,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,9,2,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,1229
+AI_0006,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,9,5,Diagnostic,Animal,Animal diagnostic,pyoderma,AI,Diagnostic,1229
+SF_0035,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,8,2,Environmental,Environmental,Environmental,bedsheets,Household,Household,2547
+AI_0054,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,6,4,Diagnostic,Animal,Animal diagnostic,wound,AI,Diagnostic,610
+SF_0326,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,3,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2613
+SF_0001,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,4,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,610
+HI_0080,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,1226
+AI_0028,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,3,Diagnostic,Animal,Animal diagnostic,skin tissue,AI,Diagnostic,1226
+AI_0088,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,1,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,257
+SF_0262,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,7,3,Colonizing,Animal,Animal colonizing,dorsal fur,Household,Household,257
+HI_0129,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,7,5,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2513
+SF_0042,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2550
+SF_0044,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Animal,Animal colonizing,nares,Household,Household,2550
+SF_0067,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Environmental,Environmental,Environmental,computer keyboard/mouse,Household,Household,2550
+SF_0127,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2550
+SF_0123,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,3,Colonizing,Human,Human colonizing,nares,Household,Household,2550
+SF_0132,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,3,Environmental,Environmental,Environmental,bedsheets,Household,Household,2550
+SF_0119,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,inguinal folds,Household,Household,2550
+SF_0120,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,5,2,Colonizing,Human,Human colonizing,nares,Household,Household,2550
+SF_0121,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,6,2,Colonizing,Human,Human colonizing,nares,Household,Household,2550
+HI_0160,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,8,3,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2529
+HI_0114,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,0,8,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,2504
+SF_0312,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,6,4,Colonizing,Animal,Animal colonizing,mouth,Household,Household,2611
+HI_0105,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,10,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,68
+HI_0012,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,10,4,Diagnostic,Human,Human diagnostic,drainage or drn,HI,Diagnostic,68
+HI_0075,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,2,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2484
+HI_0054,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,7,3,Diagnostic,Human,Human diagnostic,tissue,HI,Diagnostic,1055
+HI_0050,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,7,3,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,1055
+HI_0018,0,0,2,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,10,3,Diagnostic,Human,Human diagnostic,other,HI,Diagnostic,2455
+AI_0077,0,0,2,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,10,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,1055
+HI_0006,0,0,2,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,10,3,Diagnostic,Human,Human diagnostic,na,HI,Diagnostic,1055
+AI_0013,0,0,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,11,4,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2392
+HI_0014,1,1,2,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,15,2,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,64
+AI_0010,1,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,12,5,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2389
+AI_0053,1,1,2,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,14,6,Diagnostic,Animal,Animal diagnostic,skin biopsy,AI,Diagnostic,64
+AI_0035,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,10,3,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,2408
+HI_0122,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,3,Diagnostic,Human,Human diagnostic,respiratory,HI,Diagnostic,2509
+AI_0049,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,4,Diagnostic,Animal,Animal diagnostic,urine,AI,Diagnostic,1970
+HI_0085,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,4,Diagnostic,Human,Human diagnostic,wound,HI,Diagnostic,155
+AI_0051,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,9,5,Diagnostic,Animal,Animal diagnostic,abscess,AI,Diagnostic,155
+SF_0095,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,4,Colonizing,Animal,Animal colonizing,mouth,Household,Household,155
+SF_0024,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,5,4,Colonizing,Animal,Animal colonizing,nares,Household,Household,155

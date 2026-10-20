@@ -1,0 +1,98 @@
+```{r}
+library(readr)
+library(pheatmap)
+library(RColorBrewer)
+library(viridis)
+library(tidyr)
+library(dplyr)
+library(phangorn)
+library(ggplot2)
+library(ggtree)
+library(ggnewscale)
+library(Maaslin2)
+library(readxl)
+library("compositions")
+library("doParallel")
+```
+Getting data
+```{r}
+X_all <- read.csv('230903_isolate_defense_plus_MLST.csv',head = TRUE) 
+
+X_late = X_all #filter(X_all,Days_before_NEC_onset == 0 ) #X_all #filter(X_all,NEC_onset2 == "Late") filter(X_all,Days_before_NEC_onset == 0)
+X_data <- subset(X_late, select = -c(Isolate,Total,Phage_Count,Type,Source,Cohort,Bodysite,Group,Type2,MLST))
+#X_data <- X_data+1
+
+# low.count.removal <- function(
+#     data, # OTU count df of size n (sample) x p (OTU)
+#     percent=0.01 # cutoff chosen
+# ) 
+# {
+#   keep.otu = which(colSums(data)*100/(sum(colSums(data))) > percent)
+#   data.filter = data[,keep.otu]
+#   return(list(data.filter = data.filter, keep.otu = keep.otu))
+# }
+# X_data.filter <- low.count.removal(X_data, percent=0.01)
+# X_data <- X_data.filter$data.filter
+
+
+metadata = subset(X_late, select = c(Isolate,Total,Phage_Count,Type,Source,Cohort,Bodysite,Group,Type2,MLST))
+metadata_late = metadata
+# metadata_late = select(metadata_late, where(function(x) all(!is.na(x))))
+A  = select(metadata_late, where(function(x) length(levels(factor(x)))==1))
+colnames(A)
+Isolate.type = subset(X_late, select = c(Isolate, Type))
+#colnames(Isolate.type) = c("Sample","Cefoxitin")  # add head towards the file transmissible.csv
+```
+Fix metadata file -  set the first colume as row names
+
+```{r}
+library(data.table)
+taxa_pa = transpose(X_data)  # transpose(X_data) #transpose(data.frame(clr(X))) # transpose(data.frame(scale(clr(X))))
+colnames(taxa_pa) = X_late$Isolate
+rownames(taxa_pa) = colnames(X_data)
+#taxa_pa = subset(taxa_pa, select = -c(Gene))
+rownames(Isolate.type) = X_late$Isolate
+Isolate.type = subset(Isolate.type, select = -c(Isolate))
+rownames(metadata_late) = metadata_late$Isolate
+metadata_key = subset(metadata_late, select = -c(Isolate))
+```
+# Parallelism
+```{r parallel}
+require(doParallel)
+cl = makeCluster(6)
+registerDoParallel(cl)
+```
+
+```{r}
+# Use trace(Maaslin2, edit = T) to change the source code
+df_input_data = taxa_pa
+#df_input_metadata = Isolate.type
+df_input_metadata = metadata_key
+fit_data = Maaslin2(
+    input_data = df_input_data, 
+    input_metadata = df_input_metadata,
+    min_prevalence = 0.01,
+    #min_abundance = 0.0001,
+    analysis_method = "NEGBIN", #CPLM or LM or NEGBIN or ZINB
+    normalization = "CSS",
+    transform = "NONE",
+    cores = 4,
+    max_significance = 0.05,
+    plot_scatter = FALSE,
+    output = "261014_DefenseCount_Source_NEGBIN_CSS_0.01_MLST_v2", 
+    # fixed_effects = c("Type","MLST"),
+    # reference = c("Type,Environmental;MLST,2558"))
+    # fixed_effects = c("Type","MLST"),
+    # reference = c("Type,Colonizing;MLST,2558"))
+    # fixed_effects = c("Group","MLST"),
+    # reference = c("Group,Household;MLST,2558"))
+    # fixed_effects = c("Source","MLST"),
+    # reference = c("Source,Environmental;MLST,2558"))
+    fixed_effects = c("Source","MLST"),
+    reference = c("Source,Animal;MLST,2558"))
+```
+
+```{r}
+stopCluster(cl)
+registerDoSEQ()
+```
